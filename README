@@ -1,0 +1,3 @@
+Teeter is a Leap Motion controlled video game created in Processing. Particles fly down towards the Teeter and the user's goal is to keep the Teeter level. The user's relative hand positions control the direction and strength of the rotation.
+
+This program uses Daniel Shiffman's Box2D for Processing library and Onformative's LeapMotionP5 library.
